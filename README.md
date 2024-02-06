@@ -22,7 +22,7 @@
 第一步：
 
 ```shell
-$ composer require yzh52521/think-filesystem
+$ composer require cnerstudio/think-filesystem
 ```
 
 第二步： 在config/filesystem.php中添加配置

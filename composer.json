@@ -1,5 +1,5 @@
 {
-    "name": "yzh52521/think-filesystem",
+    "name": "cnerstudio/think-filesystem",
     "description": "thinkphp6.1 for filesystem,include Aliyun and Qiniu COS OBS ",
     "type": "library",
     "require": {
